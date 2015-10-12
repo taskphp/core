@@ -1,0 +1,12 @@
+{
+    "name": "task/core",
+    "description": "Core library for Task",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mike Fisher",
+            "email": "mike@mbfisher.com"
+        }
+    ],
+    "require": {}
+}
